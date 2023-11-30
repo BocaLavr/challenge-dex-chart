@@ -1,16 +1,14 @@
-![Screenshot_282](https://user-images.githubusercontent.com/86206128/186507535-0328811b-9b5f-41f6-b1c9-e9ac480c8c12.png)
-
 ## 🏗 scaffold-eth | 🏰 BuidlGuidl
 ### 🚩 Challenge 4: Minimum Viable Exchange
 
 
-**Live Site**: [https://wealthy-home.surge.sh/](https://wealthy-home.surge.sh/)
+**Live Site**: [https://dex-four.vercel.app/](https://dex-four.vercel.app/)
 
-**Chain**: Rinkeby Test Network
+**Chain**: Sepolia Test Network
 
-**BuidlGuidl**: [https://buidlguidl.com/builders/0xB91621B0106C542Faf1cFeB4c316FEc48096B129](https://buidlguidl.com/builders/0xB91621B0106C542Faf1cFeB4c316FEc48096B129)
+**BuidlGuidl**: [https://app.buidlguidl.com/builders/0xFC7BC662fA06137F769366A46B19924371E880bd](https://app.buidlguidl.com/builders/0xFC7BC662fA06137F769366A46B19924371E880bd)
 
-**Contract**: [https://rinkeby.etherscan.io/address/0x4078A9354d8942e6C943Dd1bB441B5d96F1b00E4](https://rinkeby.etherscan.io/address/0x4078A9354d8942e6C943Dd1bB441B5d96F1b00E4)
+**Contract**: [https://sepolia.etherscan.io/address/0x5592e5fbcfc2fdaBA8e2b35D6835d76591A0A5cd](https://sepolia.etherscan.io/address/0x5592e5fbcfc2fdaBA8e2b35D6835d76591A0A5cd)
 
 
 This is a solution to challenge 4 of [SpeedrunEth](https://speedrunethereum.com/). It is a minimal decentralized exchange that allows swapping between two assets; Ethereum and Balloon($BAL).
@@ -27,5 +25,3 @@ The full explanation of how price is handled is in [this video](https://youtu.be
 ⛳️ Finally, to cover the full stretch of decentralization, users are allowed to add liquidity. This liquidity can also be withdrawn at will. Liquidity per wallet is tracked to prevent overflow, or and issue of such.
 
 **💡Side Note:** A fee is added to the price calculation. This fee goes to liquidity providers. 
-
-<a href="https://twitter.com/Av3lous"><img src="https://user-images.githubusercontent.com/86206128/182034124-9de8fc5b-0f4a-48b6-9a37-c2e2a0c9f8e8.svg" width="100" height="30"></a> <a href="https://www.linkedin.com/in/avelous"><img src="https://user-images.githubusercontent.com/86206128/182034127-826b3d79-4904-41e0-8897-e418973be00c.svg" width="100" height="30"></a>
